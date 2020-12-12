@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/argon-design-system-react/static/css/main.06327fcb.chunk.css",
-    "main.js": "/argon-design-system-react/static/js/main.d51732ab.chunk.js",
-    "main.js.map": "/argon-design-system-react/static/js/main.d51732ab.chunk.js.map",
+    "main.css": "/argon-design-system-react/static/css/main.e442f733.chunk.css",
+    "main.js": "/argon-design-system-react/static/js/main.28ca0b44.chunk.js",
+    "main.js.map": "/argon-design-system-react/static/js/main.28ca0b44.chunk.js.map",
     "runtime-main.js": "/argon-design-system-react/static/js/runtime-main.e37b5cef.js",
     "runtime-main.js.map": "/argon-design-system-react/static/js/runtime-main.e37b5cef.js.map",
-    "static/js/2.7fd57d3a.chunk.js": "/argon-design-system-react/static/js/2.7fd57d3a.chunk.js",
-    "static/js/2.7fd57d3a.chunk.js.map": "/argon-design-system-react/static/js/2.7fd57d3a.chunk.js.map",
+    "static/js/2.362f6433.chunk.js": "/argon-design-system-react/static/js/2.362f6433.chunk.js",
+    "static/js/2.362f6433.chunk.js.map": "/argon-design-system-react/static/js/2.362f6433.chunk.js.map",
     "index.html": "/argon-design-system-react/index.html",
-    "precache-manifest.cdd5cd3ea6869fd592b14c755449c67a.js": "/argon-design-system-react/precache-manifest.cdd5cd3ea6869fd592b14c755449c67a.js",
+    "precache-manifest.31f299c26562b2d3a01248dc8044fddb.js": "/argon-design-system-react/precache-manifest.31f299c26562b2d3a01248dc8044fddb.js",
     "service-worker.js": "/argon-design-system-react/service-worker.js",
-    "static/css/main.06327fcb.chunk.css.map": "/argon-design-system-react/static/css/main.06327fcb.chunk.css.map",
-    "static/js/2.7fd57d3a.chunk.js.LICENSE.txt": "/argon-design-system-react/static/js/2.7fd57d3a.chunk.js.LICENSE.txt",
-    "static/js/main.d51732ab.chunk.js.LICENSE.txt": "/argon-design-system-react/static/js/main.d51732ab.chunk.js.LICENSE.txt",
+    "static/css/main.e442f733.chunk.css.map": "/argon-design-system-react/static/css/main.e442f733.chunk.css.map",
+    "static/js/2.362f6433.chunk.js.LICENSE.txt": "/argon-design-system-react/static/js/2.362f6433.chunk.js.LICENSE.txt",
+    "static/js/main.28ca0b44.chunk.js.LICENSE.txt": "/argon-design-system-react/static/js/main.28ca0b44.chunk.js.LICENSE.txt",
     "static/media/argon-react.png": "/argon-design-system-react/static/media/argon-react.f38ddea9.png",
     "static/media/bg.png": "/argon-design-system-react/static/media/bg.25a08df9.png",
     "static/media/font-awesome.min.css": "/argon-design-system-react/static/media/fontawesome-webfont.fee66e71.woff",
@@ -35,8 +35,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e37b5cef.js",
-    "static/js/2.7fd57d3a.chunk.js",
-    "static/css/main.06327fcb.chunk.css",
-    "static/js/main.d51732ab.chunk.js"
+    "static/js/2.362f6433.chunk.js",
+    "static/css/main.e442f733.chunk.css",
+    "static/js/main.28ca0b44.chunk.js"
   ]
 }
