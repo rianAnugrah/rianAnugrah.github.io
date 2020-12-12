@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8cf0a7a1.chunk.css",
+    "main.js": "/static/js/main.d51732ab.chunk.js",
+    "main.js.map": "/static/js/main.d51732ab.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d7651f20.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d7651f20.js.map",
+    "static/js/2.7fd57d3a.chunk.js": "/static/js/2.7fd57d3a.chunk.js",
+    "static/js/2.7fd57d3a.chunk.js.map": "/static/js/2.7fd57d3a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a743bee4777e1ed70057c056fd7d7962.js": "/precache-manifest.a743bee4777e1ed70057c056fd7d7962.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.8cf0a7a1.chunk.css.map": "/static/css/main.8cf0a7a1.chunk.css.map",
+    "static/js/2.7fd57d3a.chunk.js.LICENSE.txt": "/static/js/2.7fd57d3a.chunk.js.LICENSE.txt",
+    "static/js/main.d51732ab.chunk.js.LICENSE.txt": "/static/js/main.d51732ab.chunk.js.LICENSE.txt",
+    "static/media/argon-react.png": "/static/media/argon-react.f38ddea9.png",
+    "static/media/bg.png": "/static/media/bg.25a08df9.png",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/github.svg": "/static/media/github.4ffd4fe7.svg",
+    "static/media/google.svg": "/static/media/google.87be59a1.svg",
+    "static/media/ill-2.svg": "/static/media/ill-2.594b1ee1.svg",
+    "static/media/img-1-1200x1000.jpg": "/static/media/img-1-1200x1000.1e7c70dc.jpg",
+    "static/media/landing.jpg": "/static/media/landing.0ec26478.jpg",
+    "static/media/logo.png": "/static/media/logo.1ec2ec31.png",
+    "static/media/nucleo.css": "/static/media/nucleo-icons.f82ec6ba.ttf",
+    "static/media/platformer.png": "/static/media/platformer.f017ecd6.png",
+    "static/media/profile.jpg": "/static/media/profile.6d9db7f1.jpg",
+    "static/media/promo-1.png": "/static/media/promo-1.75f7ab18.png",
+    "static/media/rpg.jpg": "/static/media/rpg.d292be02.jpg",
+    "static/media/shooter.jpg": "/static/media/shooter.64335bf0.jpg",
+    "static/media/team-1-800x800.jpg": "/static/media/team-1-800x800.53033970.jpg",
+    "static/media/team-2-800x800.jpg": "/static/media/team-2-800x800.dcfcf3b7.jpg",
+    "static/media/team-3-800x800.jpg": "/static/media/team-3-800x800.497bb359.jpg",
+    "static/media/team-4-800x800.jpg": "/static/media/team-4-800x800.23007132.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7651f20.js",
+    "static/js/2.7fd57d3a.chunk.js",
+    "static/css/main.8cf0a7a1.chunk.css",
+    "static/js/main.d51732ab.chunk.js"
+  ]
+}
